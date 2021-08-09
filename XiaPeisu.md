@@ -4,17 +4,11 @@
 
 ![Xia Peisu](https://upload.wikimedia.org/wikipedia/commons/9/96/Xia_Peisu.jpg "Xia Peisu")
 
-Xia Peisu nació el 28 de julio de 1923 en Chongqing, China y desde pequeña brillaba en los estudios . Xia estudió ingeniería eléctrica y continuó  
-con sus estudios hasta el nivel de doctorado donde investigó sobre la teoría de circuitos eléctricos, la automatización y la aplicación  
-de ecuaciones diferenciales ordinarias no lineales.
+Xia Peisu nació el 28 de julio de 1923 en Chongqing, China y desde pequeña brillaba en los estudios . Xia estudió ingeniería eléctrica y continuó con sus estudios hasta el nivel de doctorado donde investigó sobre la teoría de circuitos eléctricos, la automatización y la aplicación de ecuaciones diferenciales ordinarias no lineales.
 
-Xia Peisu formó parte de un equipo en la Academia China de las Ciencias al que se le designó el diseño de una computadora electrónica, cuando dos de  
-los tres integrantes del equipo se salieron Xia continuó sola, lo que la llevó a ser la desarrolladora principal de la primera computadora (modelo 107)  
-en China. El trabajo de Xia Peisu continuó con ella formando parte en la creación de revistas científicas, dando clases y conferencias para los futuros  
-computólogos (incluyendo estudiantes de posgrado).
+Xia Peisu formó parte de un equipo en la Academia China de las Ciencias al que se le designó el diseño de una computadora electrónica, cuando dos de los tres integrantes del equipo se salieron Xia continuó sola, lo que la llevó a ser la desarrolladora principal de la primera computadora (modelo 107) en China. El trabajo de Xia Peisu continuó con ella formando parte en la creación de revistas científicas, dando clases y conferencias para los futuros computólogos (incluyendo estudiantes de posgrado).
 
-El legado de Xia Peisu dejó numerosas contribuciones a la investigación y diseño de ordenadores en China, tal es su legado que después de su muerte  
-la Federación China de Computación creo un premio con su nombre el cual se le entrega a científicas e ingenieras con logros sobresalientes. 
+El legado de Xia Peisu dejó numerosas contribuciones a la investigación y diseño de ordenadores en China, tal es su legado que después de su muerte la Federación China de Computación creo un premio con su nombre el cual se le entrega a científicas e ingenieras con logros sobresalientes. 
 
 **Aportaciones**
 
