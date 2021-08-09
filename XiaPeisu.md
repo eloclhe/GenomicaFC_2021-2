@@ -23,6 +23,6 @@ Benavente, R. (2020). Xia Peisu, la madre china de la computación. <https://muj
 Newton (sin fecha) Xia Peisu <https://www.newton.com.tw/wiki/%E5%A4%8F%E5%9F%B9%E8%82%85>  
 Wang Bing (2003) Xia Peisu. Biographical Dictionary of Chinese Women, An East GateBook. China, 572-573 pp. <https://books.google.es/books?id=XOGdnCPJSOMC&pg=PA572&redir_esc=y#v=onepage&q&f=false>
 
-*Eloisa Clain Hernández*  
-*10mo semestre, ciclo 2021-2*  
+*Eloisa Clain H*  
+*Ciclo 2021-2*  
 *2021.08.08*
